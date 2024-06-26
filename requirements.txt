@@ -1,0 +1,8 @@
+langchain
+playwright
+langchain_community
+beautifulsoup4
+html2text
+google-generativeai
+streamlit
+nest-asyncio
