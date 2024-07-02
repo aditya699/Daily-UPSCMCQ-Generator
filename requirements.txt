@@ -6,3 +6,4 @@ html2text
 google-generativeai
 streamlit
 nest-asyncio
+streamlit-oauth
